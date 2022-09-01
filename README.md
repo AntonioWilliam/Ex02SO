@@ -1,7 +1,5 @@
 # Ex02SO
 
-EXERCÍCIOS PROCESSOS SISTEMAS OPERACIONAIS I
-Prof. M.Sc. Leandro Colevati dos Santos FATEC-ZL
 EXERCÍCIO 2
 Fazer, em java, uma aplicação que liste os processos ativos, permita ao usuário entrar com o 
 nome ou o PID do processo e o mate.
